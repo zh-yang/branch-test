@@ -3,3 +3,5 @@ hello world!!!
 Create a new branch is quick!
 
 feature1
+
+branch dev
